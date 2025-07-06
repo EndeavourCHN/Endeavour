@@ -1,9 +1,9 @@
 # Hi, this is Endeavour
 👋 Welcome to Endeavour's homepage! 
 
-🎓 Currently a undergraduate student at Dundee International Institute of Central South University (DIICSU), China.  
+🎓 Currently an undergraduate student at Dundee International Institute of Central South University (DIICSU), China.  
 
-💻 Working with C++ and Java, also learing Python for future projects.  
+💻 Working with C++ and Java, also learning Python for future projects.  
 
 🏆 2025 CSU Programming Competition​​ – 2nd Prize (Individual). 
 
