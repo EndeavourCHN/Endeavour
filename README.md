@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 Computing Science undergraduate
+- 👨‍🎓 Computing Science Undergraduate
 - 🏫 Dundee International Institute of Central South University (DIICSU), China
 - 🤖 Interested in Machine Learning and Computer Vision.
 
